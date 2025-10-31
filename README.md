@@ -1,13 +1,22 @@
-# Data-Cleaning-of-Electricity-Data
+# ⚡️ Data Cleaning of Electricity Bill Data ⚡️
 
-Identify data problem
-The electricity data is in unstructured format and,
-it affects the data accuracy.
+---
 
-Cleaning Action
-I used "Flash Fill" to clean and organize data in  a stuctured format.
+## 🔍 Identify Data Problem
+> The electricity data is in **unstructured format**, which affects data accuracy and insights.
 
-Visualize Data
-1. I used "Pivot table" to visualize electricity comsumption in month and day.
-2. added "Slicer" for time to check Time-wise electricity consumption.
-3. Inserted "Sparklines" for clear visualization.
+---
+
+## 🧹 Cleaning Action
+- Used **Flash Fill** to clean and organize data into a structured format.
+- Made the dataset ready for analysis and visualization.
+
+---
+
+## 📊 Visualize Data
+1. **Pivot Table:** To visualize electricity consumption by month and day.
+2. **Slicer:** Added for time to filter and check time-wise electricity consumption.
+3. **Sparklines:** Inserted for clear and quick visualization trends.
+
+---
+
